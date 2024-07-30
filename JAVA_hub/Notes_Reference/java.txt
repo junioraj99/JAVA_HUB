@@ -1,0 +1,145 @@
+What you'll learn
+Spring Framework Core Features - Spring IOC Container, Beans, AutoConfigurations
+
+You will learn the fundamentals of Spring Framework from zero, no previous experience is required
+
+Dependency Injection
+
+Learn Spring MVC Concepts
+
+Spring Boot Internals, Spring Initializr, and Starter Projects
+
+Lombok - Simplify your Java code with Lombok.
+
+Setting up an In-Memory Database with H2 DB
+
+Spring Bean Data Validation
+
+Exception Handling in Spring Boot Application
+
+Reformatting the Response Object - Polish those responses until they shine!
+
+Building Spring Boot REST APIs - Create REST APIs with ease
+
+Mini Project: Restful Web Services - Put your skills to the test with a mini project
+
+Master Spring Data JPA from Basics to Custom Queries with MySQL and PostgreSQL
+
+Configuring Hibernate ORM with JDBC
+
+Spring Data JPA Query Methods
+
+Using DTO Pattern and Mapping Libraries
+
+Monitor your applications with Spring Boot Actuator
+
+Spring Documentation with Swagger and Open API
+
+Supercharge your development with Spring Dev Tools
+
+Logging - Keep track of everything with logging
+
+Auditing - Keep track of App's History
+
+REST Template and Third-Party APIs - Integrate third-party APIs with ease
+
+Secure your REST APIs with Spring Security 6 and SQL Database
+
+Create a registration and login system with Spring MVC, Spring Boot, Spring Data JPA, and MySQL
+
+Third-Party Registration System with Google OAuth and JWT Authentication
+
+Implement role-based access control with Spring Boot Authorization and SQL Database
+
+Fine-tune roles and permissions, secure methods, and customize error pages
+
+Secure passwords with encoding. Keep those passwords safe from prying eyes!
+
+Master the User Session Management
+
+Testing with JUnit and Assert Methods
+
+Integration Tests for Reactive CRUD REST APIs
+
+Master Mockito for unit testing
+
+Use Spring Profiles to manage different environments like dev, stage and prod
+
+Learn to creat buildspec to define the build flow
+
+Create Pipelines for CI/CD using AWS Codepipeline
+
+Deploying with CodePipeline and CodeDeploy on Elastic Beanstalk
+
+Aspect-Oriented Programming
+
+Various Advice Types: Before, After, After Throwing Advice
+
+Redis Spring Cache to make your cache smarter and faster!
+
+Implement publish/subscribe messaging with Redis
+
+Using Apache Kafka in Spring Boot
+
+Understanding Kafka's architecture
+
+Kafka Publisher and Kafka Consumer
+
+Spring Boot Messaging with RabbitMQ
+
+Spring Cloud Stream using Kafka Binder
+
+Introduction to Microservices
+
+Monolithic vs. Microservice Architecture
+
+Key Microservice Principles and Advantages
+
+Creating REST APIs in Microservice Architecture
+
+Microservices Communication using RestTemplate, WebClient, and Cloud OpenFeign
+
+Service Registry and Discovery using Spring Cloud Netflix Eureka
+
+API Gateway using Spring Cloud Gateway
+
+Auto Refresh Config Changes using Spring Cloud Bus
+
+Secure your microservices with JWT
+
+Distributed Tracing with Spring Cloud Sleuth and Zipkin
+
+Resilience4J: Circuit Breaker, Retry, and RateLimiter Patterns
+
+Centralized Configuration using Spring Cloud Config Server
+
+Centralized Logging using Elasticsearch, Logstash and Kibana Stack
+
+Docker Setup and Commands
+
+Dockering Spring Boot Application Step-by-Step
+
+Learn Docker's role in microservices. Understand how Docker revolutionizes microservice deployment!
+
+Use Docker Compose. Orchestrate multi-container Docker applications with ease!
+
+Understand Kubernetes in Microservices. Master container orchestration with Kubernetes!
+
+Orchestration using Kubernetes
+
+Use the Kubernetes Dashboard. Visualize and manage your Kubernetes clusters with an intuitive UI!
+
+Configure Kubernetes. Set up your Kubernetes clusters for optimal performance!
+
+Deploying Microservices to Kubernetes Cluster
+
+Utilizing Kubernetes services for load balancing and scaling
+
+
+
+
+https://javarevisited.blogspot.com/search/label/hibernate%20interview%20questions?max-results=3
+
+
+
+
